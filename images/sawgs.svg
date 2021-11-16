@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Images on Another Server</h2>
+
+<img src="https://hacktoberfest.appwrite.io/swag/tier4.webp" alt="W3Schools.com" style="width:600px;height:500px;">
+
+</body>
+</html>
+
